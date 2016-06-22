@@ -1,2 +1,2 @@
 # Alien Farm
-## this is h2 font
+## Additional instructions will be added later.
