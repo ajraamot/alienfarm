@@ -7,7 +7,7 @@ import uuid from 'uuid';
 const file = path.join(__dirname, '../../data/aliens.json');
 
 function Alien(o) {
-  this.uuid = uuid.v1();
+  this.id = uuid.v1();
   this.name = o.name;
   this.photo = o.photo;
   this.planet = o.planet;
